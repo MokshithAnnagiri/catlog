@@ -5,3 +5,5 @@
     "3": { "base": "10", "value": "12" },
     "6": { "base": "4", "value": "213" }
 }
+
+//Secret (constant term 'c'): 3
